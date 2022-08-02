@@ -5,6 +5,7 @@
 
 
 ### :woman_technologist: About Me :
+- 👩‍🎓  I’m software engineering diploma holder in NIBM 
 - 🔭 I’m currently studying at NIBM.
 - 🌱 I’m currently learning React Native and flutter,android
 - 👯 I’m looking to collaborate on open source

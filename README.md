@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Blue Modern Coding Bootcamp Facebook Banner.png" width="100"/>
+  <img src="Blue Modern Coding Bootcamp Facebook Banner.png" />
 </div>
 ### Hi there 👋
 

@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="Blue Modern Coding Bootcamp Facebook Banner.png" />
-</div>
+
 ### Hi there 👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%Worldanimation=fadeIn!)
+![header](https://capsule-render.vercel.app/api?text=Hello%World&animation=fadeIn!)
 ### Hi there 👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
